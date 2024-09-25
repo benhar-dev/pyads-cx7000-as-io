@@ -21,7 +21,7 @@ This example shows how it's possible to connect to EtherCAT terminals and slaves
 
 ## Video Tutorial
 
-There is a free coding byte video tutorial on this code which can be found [here](https://www.youtube.com/watch?v=Gm52ocZ8Crg)
+There is a free coding byte video tutorial on this code which can be found [here](https://www.youtube.com/watch?v=XeMbTYryr5Y)
 
 [![image](./docs/images/CodingBytes-PyadsCx7000AsIo.png)](https://www.youtube.com/watch?v=XeMbTYryr5Y)
 
